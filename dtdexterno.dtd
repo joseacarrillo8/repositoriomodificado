@@ -1,5 +1,0 @@
-<!ELEMENT musicos (musico*)>
-  <!ELEMENT musico ((nombre | apodo), fechaNacimiento)>
-  <!ELEMENT nombre (#PCDATA)>
-  <!ELEMENT apodo (#PCDATA)>
-  <!ELEMENT fechaNacimiento (#PCDATA)>
